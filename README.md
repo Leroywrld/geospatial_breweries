@@ -1,6 +1,6 @@
-WELCOME
+## Welcome
 
-GEOSPATIAL DATA ANALYSIS AND MACHINE LEARNING
+### Geospatial Data Analysis & Machine Learning
 
 This project contains data about breweries located in the following nations:
 United States of America
